@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://hadoop-master:9000/</value>
+    </property>
+</configuration>
+Starting secondary namenodes [0.0.0.0]
+0.0.0.0: ssh: connect to host 0.0.0.0 port 22: Connection refused
+/opt/hadoop/bin/hdfs: line 28: which: command not found
+dirname: missing operand
